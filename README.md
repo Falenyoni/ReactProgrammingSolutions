@@ -26,3 +26,5 @@ book App project
 2. Use Terraform to deploy Changes
 3. Create A CI/CD
 4. Store images in s3 buckets
+
+5. create a Blog project (https://www.youtube.com/watch?v=0aPLk2e2Z3g&t=31s)
